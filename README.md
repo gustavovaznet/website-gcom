@@ -1,4 +1,4 @@
-# GCOM Digital Transformation
+# GCOM Digital Solutions
 This is a website I developed for GCOM company.
 
 ## Screenshots
