@@ -1,0 +1,49 @@
+{
+    "links":[
+        {
+            "href":"#hero_div",
+            "paragraph":"Home"
+        },
+        {
+            "href":"#about_div",
+            "paragraph":"Sobre"
+        },
+        {
+            "href":"#services_div",
+            "paragraph":"Serviços"
+        },
+        {
+            "href":"#footer_div",
+            "paragraph":"Contato"
+        }
+    ],
+    "contact":[
+        {
+            "paragraph":"+55 11 9 5555-5555"
+        },
+        {
+            "paragraph":"contato@gcom.com"
+        },
+        {
+            "paragraph":"Atendimento das 9h às 18h (dias úteis)"
+        }
+    ],
+    "explore":[
+        {
+            "href":"/",
+            "paragraph":"FAQ"
+        },
+        {
+            "href":"/",
+            "paragraph":"Blog"
+        },
+        {
+            "href":"/",
+            "paragraph":"Newsletter"
+        },
+        {
+            "href":"/",
+            "paragraph":"Clientes"
+        }
+    ]
+}

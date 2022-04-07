@@ -1,0 +1,25 @@
+{
+    "about":[
+        {
+            "image":"/img/about_one.svg",
+            "heading":"Atendimento",
+            "paragraph":"Prezamos pelo bom atendimento pois todos os nossos clientes são de extrema importância para nós."
+        },
+        {
+            "image":"/img/about_two.svg",
+            "heading":"Design",
+            "paragraph":"Criação de soluções modernas com design responsivo que proporciona a melhor experiência para os seus usuários."
+        },
+        {
+            "image":"/img/about_three.svg",
+            "heading":"Projetos",
+            "paragraph":"Projetos personalizados que cumprem as necessidades dos nossos clientes de forma rápida e eficiente."
+        },
+        {
+            "image":"/img/about_four.svg",
+            "heading":"Desenvolvimento",
+            "paragraph":"Desenvolvimento de soluções modernas e inteligentes de acordo com os melhores e mais atuais padrões do mercado."
+        }
+        
+    ]
+}

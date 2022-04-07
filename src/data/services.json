@@ -1,0 +1,16 @@
+{
+    "services":[
+        {
+            "image":"/img/services_one.jpg",
+            "heading":"Projetos",
+            "paragraph":"Criamos o seu projeto do zero, seguindo as principais e mais modernas técnicas de desenvolvimento, suprindo todas as suas necessidades.",
+            "href":"/"
+        },
+        {
+            "image":"/img/services_two.jpg",
+            "heading":"Personalização",
+            "paragraph":"Se você já possui o seu negócio digital porém quer personalizar ou efetuar melhorias, conte com a gente, somos especialistas nesse quesito.",
+            "href":"/"
+        }
+    ]
+}

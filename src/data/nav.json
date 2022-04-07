@@ -1,0 +1,20 @@
+{
+    "navItems":[
+        {
+            "href":"#hero_div",
+            "page":"Home"
+        },
+        {
+            "href":"#about_div",
+            "page":"Sobre"
+        },
+        {
+            "href":"#services_div",
+            "page":"Serviços"
+        },
+        {
+            "href":"#footer_div",
+            "page":"Contato"
+        }
+    ]
+}
